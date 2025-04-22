@@ -9,7 +9,7 @@ import Animated, { FadeInDown } from 'react-native-reanimated';
 const MOCK_TRENDING = [
   {
     id: '1',
-    text: 'I've been pretending to like my best friend's music for years. I can't tell them the truth now.',
+    text: "I've been pretending to like my best friend's music for years. I can't tell them the truth now.",
     location: 'Boston',
     likes: 342,
     comments: 78,
@@ -18,7 +18,7 @@ const MOCK_TRENDING = [
   },
   {
     id: '2',
-    text: 'I anonymously paid for a stranger's groceries when I saw them counting coins at checkout. Their smile made my week.',
+    text: "I anonymously paid for a stranger's groceries when I saw them counting coins at checkout. Their smile made my week.",
     location: 'Miami',
     likes: 289,
     comments: 45,
@@ -27,7 +27,7 @@ const MOCK_TRENDING = [
   },
   {
     id: '3',
-    text: 'I'm a doctor and sometimes I google symptoms just to double-check myself. We're all human.',
+    text: "I'm a doctor and sometimes I google symptoms just to double-check myself. We're all human.",
     location: null,
     likes: 256,
     comments: 62,
@@ -36,7 +36,7 @@ const MOCK_TRENDING = [
   },
   {
     id: '4',
-    text: 'I've been secretly learning to dance for 6 months to surprise my partner at our wedding.',
+    text: "I've been secretly learning to dance for 6 months to surprise my partner at our wedding.",
     location: 'San Francisco',
     likes: 198,
     comments: 34,
@@ -45,7 +45,7 @@ const MOCK_TRENDING = [
   },
   {
     id: '5',
-    text: 'I pretend to hate reality TV shows in public but I've seen every season of The Bachelor.',
+    text: "I pretend to hate reality TV shows in public but I've seen every season of The Bachelor.",
     location: 'Austin',
     likes: 176,
     comments: 41,

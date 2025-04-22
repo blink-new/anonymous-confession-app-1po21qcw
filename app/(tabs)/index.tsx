@@ -9,7 +9,7 @@ import Animated, { FadeInDown } from 'react-native-reanimated';
 const MOCK_CONFESSIONS = [
   {
     id: '1',
-    text: 'Sometimes I feel like I'm not good enough for my dream job, but I keep pushing anyway.',
+    text: "Sometimes I feel like I'm not good enough for my dream job, but I keep pushing anyway.",
     location: 'New York',
     likes: 24,
     comments: 5,
@@ -17,7 +17,7 @@ const MOCK_CONFESSIONS = [
   },
   {
     id: '2',
-    text: 'I told my partner I was working late, but I was actually buying them a surprise gift for our anniversary.',
+    text: "I told my partner I was working late, but I was actually buying them a surprise gift for our anniversary.",
     location: 'Los Angeles',
     likes: 56,
     comments: 12,
@@ -25,7 +25,7 @@ const MOCK_CONFESSIONS = [
   },
   {
     id: '3',
-    text: 'I'm terrified of failing my final exams, but I haven't told anyone how stressed I am.',
+    text: "I'm terrified of failing my final exams, but I haven't told anyone how stressed I am.",
     location: null,
     likes: 18,
     comments: 3,
@@ -33,7 +33,7 @@ const MOCK_CONFESSIONS = [
   },
   {
     id: '4',
-    text: 'I secretly learned my girlfriend's native language so I could propose to her in it next month.',
+    text: "I secretly learned my girlfriend's native language so I could propose to her in it next month.",
     location: 'Chicago',
     likes: 102,
     comments: 24,
@@ -41,7 +41,7 @@ const MOCK_CONFESSIONS = [
   },
   {
     id: '5',
-    text: 'I've been helping an elderly neighbor with groceries for months. They think it's a delivery service, but I pay for it myself.',
+    text: "I've been helping an elderly neighbor with groceries for months. They think it's a delivery service, but I pay for it myself.",
     location: 'Seattle',
     likes: 87,
     comments: 15,
